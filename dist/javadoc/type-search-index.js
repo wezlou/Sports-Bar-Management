@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"bar","l":"AdmLog"},{"p":"bar","l":"AdmMan"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"bar","l":"Bar"},{"p":"bar","l":"LoadScr"},{"p":"bar","l":"LogIn"},{"p":"bar","l":"regist"},{"p":"bar","l":"SportsandLiq"}];updateSearchResults();
